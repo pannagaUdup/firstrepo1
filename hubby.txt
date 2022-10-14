@@ -1,3 +1,10 @@
 hustle, loyalty, respect
 john cena
 wrestling
+GIT CLONING TO UPDATE FROM LOCAL REPO TO GITHUB REPOSITORY
+1.start filename
+2.git add .
+3.git commit
+4.git remote add origin (link of repository location)//if not linked
+5.git push origin(primary branch) master(secondary branch)
+//repository updated
