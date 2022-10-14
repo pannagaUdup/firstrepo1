@@ -8,3 +8,5 @@ GIT CLONING TO UPDATE FROM LOCAL REPO TO GITHUB REPOSITORY
 4.git remote add origin (link of repository location)//if not linked
 5.git push origin(primary branch) master(secondary branch)
 //repository updated
+
+"git log" ->to see previous commits
